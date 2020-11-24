@@ -6,7 +6,8 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/ouali/Desktop/json-simple-1.1.1.jar"/>
-	<classpathentry kind="lib" path="/JAVA JSON/lib/javax.json-1.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ouali/eclipse-workspace/JavaJson/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/javax.json-1.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ouali/eclipse-workspace/JavaJson/lib/mongo-java-driver-3.0.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

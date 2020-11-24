@@ -28,12 +28,8 @@ public class Person {
 	
 	public String toString(){
 		StringBuilder sb = new StringBuilder();
-		sb.append("***** Person details *****\n");
-		
-		sb.append("first name : "+getFirst_name()+"\n");
-		sb.append("last name : "+getLast_name()+"\n");
-		
-		sb.append("\n*****************************");
+		sb.append(" First name : "+getFirst_name()+", ");
+		sb.append("Last name : "+getLast_name()+"\n");
 		return sb.toString();
 	}
 
